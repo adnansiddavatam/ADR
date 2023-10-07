@@ -1,0 +1,29 @@
+Scenario 1: Backend Language
+
+
+Prologue (Summary)
+In the context of developing a retail mobile app with the requirement of a robust and scalable backend, facing the need to leverage existing team expertise, we decided to go with C# as the backend language to achieve a reliable, performant, and maintainable backend infrastructure, while accepting that this choice necessitates a Microsoft-centric technology stack.
+Discussion (Context)
+The retail mobile app requires a strong backend to handle numerous functionalities including product listings, order processing, and customer data management. Given the team's existing expertise in C#, JavaScript, Java, and Python, choosing a backend language that aligns with the team's skills while meeting the app’s requirements is crucial.
+Solution
+C# has been chosen as the backend language due to its strong typing, performance, and the team’s familiarity with it. Utilizing .NET Core for building the backend will provide a robust and scalable solution, along with a rich ecosystem of libraries and tools. This choice allows for efficient development, leveraging the team's existing knowledge and experience.
+Consequences
+Opting for C# and the .NET Core framework will likely ensure a reliable and performant backend. However, this choice leans towards a Microsoft-centric technology stack which might limit options when integrating with third-party services or technologies outside the Microsoft ecosystem.
+Technical Concerns:
+Performance: C# is known for its performance and strong typing which can help in building a reliable backend.
+Microsoft-Centric: This choice leans towards a Microsoft-centric technology stack which may have implications for hosting and third-party integrations.
+Budget and Timing:
+Development Efficiency: Leveraging existing expertise in C# can lead to faster development and potentially lower costs.
+Scalability:
+Framework Maturity: .NET Core is a mature framework with features supporting scalability and maintainability, crucial for the app’s growth.
+Integration:
+Third-Party Integrations: Potential challenges may arise when integrating with third-party services or technologies outside the Microsoft ecosystem.
+Future Maintenance:
+Community Support: C# and .NET Core have strong community support, which is beneficial for troubleshooting and future maintenance.
+Performance Monitoring:
+Backend Performance: Regular monitoring of backend performance to ensure it meets the required standards and optimize as necessary.
+User Feedback:
+Backend-Related Improvements: Collecting user feedback related to order processing, product listings, and other backend-driven functionalities for continuous improvement.
+Reviewing the Decision:
+Adaptability: Re-evaluating the backend language choice as the project evolves or better-suited languages/frameworks emerge is a prudent practice.
+
