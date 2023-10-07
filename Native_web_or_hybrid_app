@@ -1,1 +1,32 @@
+Scenario 1: Native, web or hybrid app
+
+Prologue
+For this scenario, we decided to go with a Hybrid app approach. This decision aims to achieve wider platform coverage and quicker development, while accepting a potential trade-off in native performance.
+Discussion/Context
+The goal is to develop an app that caters to both iOS and Android users, keeping in mind the budget and timeline. The app should provide a seamless user experience, enabling features like offline browsing, notifications, and easy payments.
+Solution
+For our hybrid app, using a framework like React Native enables us to create one app for both iOS and Android. This approach is cost-effective and speeds up the development process, ensuring a reasonable user experience and access to necessary features.
+Consequences
+Over time, a Hybrid app will facilitate easier updates and maintenance due to a shared codebase. However, there may be scenarios where platform-specific optimizations are required to ensure a consistent user experience. Continuous monitoring of app performance and user feedback will guide future optimizations. Revisiting this decision may be necessary as new technologies emerge or if performance metrics indicate a need for a more native approach.
+Technical Concerns:
+Platform Coverage: Essential to reach a wide user base.
+Cost and Development Speed: Hybrid approach is a balanced choice.
+Performance: Ensuring good performance while having a shared codebase.
+Access to Native Features: Necessary for crucial app functionalities.
+Budget and Timing:
+Staying within budget and meeting the release timeline are critical.
+User Satisfaction:
+Providing an intuitive and reliable app experience is crucial for user retention.
+Framework Selection:
+React Native is chosen for its community support and ability to provide a near-native performance with a shared codebase.
+Provision for using some native code for performance-critical components.
+Future Maintenance:
+Easier to update or fix the app with a shared codebase.
+Performance Monitoring:
+Continuous performance monitoring to identify areas of improvement.
+User Feedback:
+Collecting user feedback for future optimizations.
+Reviewing the Decision:
+Possible re-evaluation of the decision based on new technologies or performance metrics.
+
 
