@@ -1,9 +1,9 @@
 Scenario 1: UI Framework
 
-Prologue (Summary)
-In the context of developing a retail mobile app with a focus on an intuitive and engaging user interface, and given our team's expertise in React, JavaScript, and Java, we decided to go with React Native as the UI framework to achieve a consistent and captivating UI across both iOS and Android platforms, while accepting that some platform-specific code may need to be written to achieve certain functionalities.
-Discussion (Context)
-The application demands a seamless and intuitive user interface that remains consistent across both major mobile platforms. Given the timeline and budget, it's vital to leverage a framework that supports rapid development, and aligns with the team's existing expertise in React, JavaScript, and Java.
+Prologue
+For our retail mobile app, with a focus on an intuitive and engaging user interface, and given our team's expertise in React, JavaScript, and Java, we decided to go with React Native as the UI framework to achieve a consistent and captivating UI across both iOS and Android platforms, while accepting that some platform-specific code may need to be written to achieve certain functionalities.
+Discussion
+The application demands a seamless and intuitive user interface that remains consistent across both major mobile platforms. Given the timeline and budget, it's vital to use a framework that supports rapid development, and aligns with the team's existing expertise in React, JavaScript, and Java.
 Solution
 React Native, known for its ability to create cross-platform mobile applications using React and JavaScript, aligns with our team's existing skills, facilitating a more efficient development process. It offers hot reloading for instant UI updates during development and a vast library of pre-built components, which will be beneficial in creating a professional-looking app within the given timeframe and budget.
 Consequences
