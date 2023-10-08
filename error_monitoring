@@ -1,8 +1,8 @@
 Scenario 1: Error Monitoring
 
-Prologue (Summary)
-In the context of developing a retail mobile app with various features and interactions, facing the need to ensure a reliable and bug-free user experience, we decided to implement a comprehensive error monitoring and reporting system to achieve early detection and resolution of issues, while accepting the overhead of setting up and maintaining the monitoring infrastructure.
-Discussion (Context)
+Prologue
+Facing the need to ensure a reliable and bug-free user experience, we decided to implement a comprehensive error monitoring and reporting system to achieve early detection and resolution of issues, while accepting the overhead of setting up and maintaining the monitoring infrastructure.
+Discussion
 The retail app encompasses multiple features such as browsing products, making purchases, tracking orders, and managing a loyalty program. Ensuring these features work flawlessly is crucial for user satisfaction and trust. Error monitoring will help in early detection and resolution of issues, providing insights into the app’s health and performance.
 Solution
 Implementing an error monitoring and reporting system using a tool like Sentry or New Relic. These tools will provide real-time error tracking, detailed error reports, and insights into the app's performance. This will allow for prompt identification and resolution of issues, minimizing the impact on users.
