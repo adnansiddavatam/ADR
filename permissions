@@ -1,8 +1,8 @@
 Scenario 1: Permissions
 
-Prologue (Summary)
-In the context of developing a retail mobile app with features like order tracking, push notifications, and loyalty program, facing the need to ensure user privacy and data security, we decided to implement a permissions model to request necessary permissions from users to access certain features, aiming to ensure a transparent and trustworthy user experience, while accepting the possibility of limited app functionality for users who deny certain permissions.
-Discussion (Context)
+Prologue
+The app would come with features like order tracking, push notifications, and loyalty program. Facing the need to ensure user privacy and data security, we decided to implement a permissions model to request necessary permissions from users to access certain features, aiming to ensure a transparent and trustworthy user experience, while accepting the possibility of limited app functionality for users who deny certain permissions.
+Discussion
 The retail mobile app requires certain permissions to function optimally. For instance, push notifications necessitate notification permissions, and order tracking may require location permissions. The challenge is to request these permissions in a user-friendly manner while adhering to platform guidelines and legal requirements concerning user privacy and data security.
 Solution
 Implementing a permissions model where permissions are requested in-context and with clear explanations of why they are needed. Utilizing platform-specific permissions APIs to request and manage permissions, ensuring that the permissions model is adaptable to both iOS and Android platforms, and adheres to their respective guidelines.
@@ -25,5 +25,4 @@ User Feedback:
 Improving Permissions UX: Collecting user feedback on the permissions UX to make iterative improvements.
 Reviewing the Decision:
 Adaptability: Re-evaluating the permissions model as the app evolves, or in response to user feedback or changes in legal/platform guidelines.
-
 
