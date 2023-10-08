@@ -1,10 +1,10 @@
 Scenario 1: Backend Language
 
 
-Prologue (Summary)
-In the context of developing a retail mobile app with the requirement of a robust and scalable backend, facing the need to leverage existing team expertise, we decided to go with C# as the backend language to achieve a reliable, performant, and maintainable backend infrastructure, while accepting that this choice necessitates a Microsoft-centric technology stack.
-Discussion (Context)
-The retail mobile app requires a strong backend to handle numerous functionalities including product listings, order processing, and customer data management. Given the team's existing expertise in C#, JavaScript, Java, and Python, choosing a backend language that aligns with the team's skills while meeting the app’s requirements is crucial.
+Prologue 
+We decided to go with C# as the backend language to achieve a reliable, performant, and maintainable backend infrastructure, while accepting that this choice necessitates a Microsoft-centric technology stack.
+Discussion
+The app requires a strong backend to handle numerous functionalities including product listings, order processing, and customer data management. Given the team's existing expertise in C#, JavaScript, Java, and Python, choosing a backend language that aligns with the team's skills while meeting the app’s requirements is crucial.
 Solution
 C# has been chosen as the backend language due to its strong typing, performance, and the team’s familiarity with it. Utilizing .NET Core for building the backend will provide a robust and scalable solution, along with a rich ecosystem of libraries and tools. This choice allows for efficient development, leveraging the team's existing knowledge and experience.
 Consequences
