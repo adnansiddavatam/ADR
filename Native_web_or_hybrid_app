@@ -2,7 +2,7 @@ Scenario 1: Native, web or hybrid app
 
 Prologue
 For this scenario, we decided to go with a Hybrid app approach. This decision aims to achieve wider platform coverage and quicker development, while accepting a potential trade-off in native performance.
-Discussion/Context
+Discussion
 The goal is to develop an app that caters to both iOS and Android users, keeping in mind the budget and timeline. The app should provide a seamless user experience, enabling features like offline browsing, notifications, and easy payments.
 Solution
 For our hybrid app, using a framework like React Native enables us to create one app for both iOS and Android. This approach is cost-effective and speeds up the development process, ensuring a reasonable user experience and access to necessary features.
@@ -28,5 +28,4 @@ User Feedback:
 Collecting user feedback for future optimizations.
 Reviewing the Decision:
 Possible re-evaluation of the decision based on new technologies or performance metrics.
-
 
